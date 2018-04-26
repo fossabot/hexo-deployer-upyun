@@ -1,4 +1,6 @@
 # hexo-deployer-upyun
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMenci%2Fhexo-deployer-upyun.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMenci%2Fhexo-deployer-upyun?ref=badge_shield)
+
 UPYUN deployer for Hexo.
 
 ```
@@ -21,3 +23,7 @@ deploy:
     dir: null
     file: ".DS_Store$"
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMenci%2Fhexo-deployer-upyun.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMenci%2Fhexo-deployer-upyun?ref=badge_large)
